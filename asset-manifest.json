@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fusion-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/fusion-app/static/js/main.e68cfd4c.chunk.js",
+    "main.js.map": "/fusion-app/static/js/main.e68cfd4c.chunk.js.map",
+    "runtime-main.js": "/fusion-app/static/js/runtime-main.1087f0d6.js",
+    "runtime-main.js.map": "/fusion-app/static/js/runtime-main.1087f0d6.js.map",
+    "static/js/2.cbc90df5.chunk.js": "/fusion-app/static/js/2.cbc90df5.chunk.js",
+    "static/js/2.cbc90df5.chunk.js.map": "/fusion-app/static/js/2.cbc90df5.chunk.js.map",
+    "index.html": "/fusion-app/index.html",
+    "precache-manifest.9040c7342cb3c2821e09bbd3c6657baf.js": "/fusion-app/precache-manifest.9040c7342cb3c2821e09bbd3c6657baf.js",
+    "service-worker.js": "/fusion-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/fusion-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.cbc90df5.chunk.js.LICENSE": "/fusion-app/static/js/2.cbc90df5.chunk.js.LICENSE",
+    "static/media/logo.svg": "/fusion-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1087f0d6.js",
+    "static/js/2.cbc90df5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e68cfd4c.chunk.js"
+  ]
+}
